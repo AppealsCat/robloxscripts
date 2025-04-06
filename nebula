@@ -1,0 +1,3 @@
+script_key="userKey";
+_G['EndGameOnlyMode'] = true; -- Add this line!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NebulaHubOfc/Public/refs/heads/main/Loader.lua"))()
