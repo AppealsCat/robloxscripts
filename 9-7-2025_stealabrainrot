@@ -1,0 +1,4 @@
+-- Get key from this link: https://ads.luarmor.net/get_key?for=Steal_A_Brainrot-MSQyqSBAeReq
+
+script_key="paste your key here";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/53325754de16c11fbf8bf78101c1c881.lua"))()
