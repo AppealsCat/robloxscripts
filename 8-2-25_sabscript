@@ -1,3 +1,2 @@
-script_key="keyhere"; -- set your key here so it loads steal a brainrot directly
-getgenv().loadcongif = false -- set this to true if you want auto load saved config
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/51d3af0c95c2202166bf716b5a120203.lua"))()
+script_key = ""
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Estevansit0/KJJK/refs/heads/main/PusarX-loader.lua"))()
